@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karan-sagar.
 - 👀 I’m interested in mathematics, statistics, and machine learning. 
-- 🌱 I’m currently learning more about machine learning and git version control.
+- 🌱 I’m currently learning more about machine learning.
 - 📫 How to reach me: by email karan.sagar@outlook.com
 
 <!---
